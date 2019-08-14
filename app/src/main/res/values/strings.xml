@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppMusic_neo_TTS</string>
+    <string name="no_acc"> No have account </string>
+    <string name="forget_acc">Forget Password</string>
+</resources>
